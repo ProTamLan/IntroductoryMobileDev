@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         //show layout file act_main
         setContentView(R.layout.activity_main)
-//
+//12345
         findViewById<Button>(R.id.button).setOnClickListener{
             //handles button tap
             Log.i("Alan", "Tapped Button")
