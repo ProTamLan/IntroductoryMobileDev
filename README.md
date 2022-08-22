@@ -2,7 +2,7 @@
 codepath prework project (Intro to Mobile App Development)
 
 
-App Walk-though:
+App Walk-Through:
 
 
 https://user-images.githubusercontent.com/75819639/185853253-71b04d6b-d6c9-4221-946f-e6381ae240f8.mp4
